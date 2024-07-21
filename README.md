@@ -12,12 +12,12 @@ This is a simple chat system implemented using Websockets, Express and Node.js. 
 
 ## Technologies Used
 
-- **Express.js**: 
-- **Node.js**: 
-- **WebSocket**: 
-- **Bootstrap**: 
-- **RSA encryption**: 
-- **Git**: 
+- **Express.js**
+- **Node.js**
+- **WebSocket**
+- **Bootstrap**
+- **RSA encryption**
+- **Git**
 
 ## Getting Started
 
