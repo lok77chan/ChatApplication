@@ -12,12 +12,12 @@ This is a simple chat system implemented using Websockets, Express and Node.js. 
 
 ## Technologies Used
 
-- **Express.js**: A JavaScript library for real-time, bidirectional communication between web clients and servers.
-- **Node.js**: A JavaScript runtime environment that allows running JavaScript on the server-side.
-- **WebSocket**: A fast and minimalist web application framework for Node.js.
-- **Bootstrap**: The standard markup language and styling for building the user interface.
-- **RSA encryption**: A popular CSS framework that provides pre-designed components and responsive layouts.
-- **Git**: A version control system for tracking changes in the project.
+- **Express.js**: 
+- **Node.js**: 
+- **WebSocket**: 
+- **Bootstrap**: 
+- **RSA encryption**: 
+- **Git**: 
 
 ## Getting Started
 
